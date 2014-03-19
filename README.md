@@ -29,6 +29,12 @@ file into the BIND master directory.
 
 6. Finally, named is notified of any changes zones using rndc.
 
+
+## Fancy Graphics
+
+![](doc/svndns.png "svndns.png")
+
+
 ## See Also
 
 - https://github.com/kirei/dper
