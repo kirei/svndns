@@ -38,3 +38,8 @@ file into the BIND master directory.
 ## See Also
 
 - https://github.com/kirei/dper
+
+## To Do
+
+The DNSSEC signer (ZKT) should be replaced by something better, e.g. OpenDNSSEC
+or ISC BIND with online signing.
