@@ -33,7 +33,7 @@ use Getopt::Long;
 use Pod::Usage;
 use File::Temp;
 
-my $svnlook = "/usr/local/bin/svnlook";
+my $svnlook = "/usr/bin/svnlook";
 my $install = "/usr/bin/install";
 
 ######################################################################

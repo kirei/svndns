@@ -33,8 +33,8 @@ use Getopt::Long;
 use Pod::Usage;
 use File::Temp;
 
-my $svnlook   = "/usr/local/bin/svnlook";
-my $checkzone = "/usr/local/sbin/named-checkzone";
+my $svnlook   = "/usr/bin/svnlook";
+my $checkzone = "/usr/sbin/named-checkzone";
 
 ######################################################################
 
